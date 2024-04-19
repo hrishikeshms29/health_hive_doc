@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "456751401776",
+    "project_id": "health-hive-1",
+    "storage_bucket": "health-hive-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456751401776:android:1e005e7f7b4e09781296f5",
+        "android_client_info": {
+          "package_name": "com.example.health_hive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNP43jl3749-wJExn0NEJocZ1T0gCW0CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456751401776:android:e2ecb4b835c653321296f5",
+        "android_client_info": {
+          "package_name": "com.example.health_hive_doc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNP43jl3749-wJExn0NEJocZ1T0gCW0CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
